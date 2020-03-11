@@ -1,6 +1,6 @@
 # show-me-your-works-introduce
 
-Maybe you have heard the word that "Talk is easy,show me your code."
+Maybe you have heard that "Talk is easy,show me your code."
 
 However, in my opinion, "Talk is easy,show me your works."
 
